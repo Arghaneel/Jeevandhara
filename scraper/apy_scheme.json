@@ -1,0 +1,68 @@
+{
+    "scheme_name": "APY",
+    "full_name": "Atal Pension Yojana",
+    "website": "https://www.jansuraksha.gov.in/",
+    "scheme_details": {
+        "eligibility": [
+            "Applicant must be an Indian citizen",
+            "Applicant age must be between 18 and 40 years",
+            "Must have a savings bank account or post office savings account",
+            "Income tax payers are not eligible",
+            "Minimum contribution period is 20 years"
+        ],
+        "age_limit": {
+            "minimum_age": 18,
+            "maximum_age": 40,
+            "pension_start_age": 60
+        },
+        "land_limit": [
+            "No land ownership requirement",
+            "Applicable for farmers and non-farmers"
+        ],
+        "income_limit": [
+            "Income tax payers cannot apply"
+        ],
+        "money_benefits": {
+            "minimum_pension": "₹1000 per month",
+            "maximum_pension": "₹5000 per month",
+            "government_guaranteed": true,
+            "spouse_pension": "Spouse receives pension after subscriber death",
+            "nominee_benefit": "Nominee receives accumulated corpus"
+        },
+        "documents_required": [
+            "Aadhaar Card",
+            "Savings Bank Account",
+            "Bank Passbook",
+            "Mobile Number",
+            "Identity Proof",
+            "Address Proof"
+        ],
+        "application_process": [
+            "Visit bank or post office",
+            "Fill APY registration form",
+            "Submit Aadhaar and bank details",
+            "Choose pension amount",
+            "Monthly contribution gets auto-debited"
+        ],
+        "contribution_modes": [
+            "Monthly",
+            "Quarterly",
+            "Half-Yearly"
+        ],
+        "pension_options": [
+            "₹1000",
+            "₹2000",
+            "₹3000",
+            "₹4000",
+            "₹5000"
+        ],
+        "official_apply_link": "https://enps.nps-proteantech.in/eNPS/NationalPensionSystem.html",
+        "important_features": [
+            "Guaranteed pension after age 60",
+            "Government-backed pension scheme",
+            "Low-risk retirement scheme",
+            "Useful for unorganized sector workers",
+            "Tax benefits available under Section 80CCD"
+        ]
+    }
+}
