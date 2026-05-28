@@ -1,0 +1,20 @@
+{
+    "scheme_name": "nmsa",
+    "website": "https://nmsa.dac.gov.in/",
+    "title": "National Mission for Sustainable Agriculture",
+    "scheme_details": {
+        "eligibility": [
+            "account",
+            "beneficiary"
+        ],
+        "land_limit": null,
+        "income_limit": null,
+        "money_benefits": {},
+        "documents_required": [
+            "Certificate",
+            "Ration Card"
+        ],
+        "age_limit": null,
+        "application_process": []
+    }
+}
