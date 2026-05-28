@@ -1,0 +1,18 @@
+{
+    "scheme_name": "pkvy",
+    "website": "https://pgsindia-ncof.gov.in/",
+    "title": "PGSI - Home",
+    "scheme_details": {
+        "eligibility": [],
+        "land_limit": null,
+        "income_limit": {
+            "amount": 2415924
+        },
+        "money_benefits": {},
+        "documents_required": [
+            "Certificate"
+        ],
+        "age_limit": null,
+        "application_process": []
+    }
+}
