@@ -1,0 +1,25 @@
+{
+    "scheme_name": "PM_KMY",
+    "website": "https://maandhan.in/",
+    "title": "Maandhan",
+    "scheme_details": {
+        "eligibility": [
+            "eligibility"
+        ],
+        "land_limit": null,
+        "income_limit": {
+            "amount": 15000
+        },
+        "money_benefits": {
+            "insurance_amount": 15000
+        },
+        "documents_required": [
+            "Ration Card"
+        ],
+        "age_limit": {
+            "minimum_age": 60,
+            "maximum_age": 60
+        },
+        "application_process": []
+    }
+}
