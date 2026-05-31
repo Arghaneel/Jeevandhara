@@ -1,0 +1,39 @@
+{
+  "scheme_name": "DILRMP",
+  "website": "https://dolr.gov.in/",
+  "title": "Digital India Land Records Modernization Programme",
+  "scheme_details": {
+    "eligibility": [
+      "Land owners",
+      "Farmers",
+      "Citizens with registered land records",
+      "State and Union Territory land administration departments"
+    ],
+    "land_limit": "No land holding limit specified",
+    "income_limit": "No income limit specified",
+    "money_benefits": null,
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Ownership Records",
+      "Identity Proof",
+      "Address Proof",
+      "Mutation Records (if applicable)"
+    ],
+    "age_limit": null,
+    "application_process": [
+      "Visit state land records portal.",
+      "Register using land details.",
+      "Apply for digitized land records or mutation services.",
+      "Verification by revenue authorities.",
+      "Access digital land records online."
+    ],
+    "benefits": [
+      "Digitized land records",
+      "Transparent land ownership system",
+      "Reduced land disputes",
+      "Online access to records",
+      "Faster mutation services"
+    ],
+    "implemented_by": "Department of Land Resources, Government of India"
+  }
+}
