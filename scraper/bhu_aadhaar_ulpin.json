@@ -1,0 +1,35 @@
+{
+  "scheme_name": "BHU_AADHAAR_ULPIN",
+  "website": "https://dolr.gov.in/",
+  "title": "Unique Land Parcel Identification Number (ULPIN)",
+  "scheme_details": {
+    "eligibility": [
+      "Land owners",
+      "Farmers",
+      "Citizens possessing registered land parcels"
+    ],
+    "land_limit": "Applicable to all registered land parcels",
+    "income_limit": "No income limit specified",
+    "money_benefits": null,
+    "documents_required": [
+      "Land Ownership Documents",
+      "Aadhaar Card",
+      "Survey Records",
+      "Property Documents"
+    ],
+    "age_limit": null,
+    "application_process": [
+      "Land parcel mapped using GIS technology.",
+      "Verification by land authorities.",
+      "Generation of Unique Land Parcel Identification Number.",
+      "Integration into digital land records."
+    ],
+    "benefits": [
+      "Unique digital identity for land",
+      "Prevents land fraud",
+      "Improves ownership verification",
+      "Supports digital governance"
+    ],
+    "implemented_by": "Department of Land Resources"
+  }
+}
