@@ -1,20 +1,63 @@
 {
-    "scheme_name": "nmsa",
-    "website": "https://nmsa.dac.gov.in/",
-    "title": "National Mission for Sustainable Agriculture",
-    "scheme_details": {
-        "eligibility": [
-            "account",
-            "beneficiary"
-        ],
-        "land_limit": null,
-        "income_limit": null,
-        "money_benefits": {},
-        "documents_required": [
-            "Certificate",
-            "Ration Card"
-        ],
-        "age_limit": null,
-        "application_process": []
-    }
+  "scheme_name": "NMSA",
+  "website": "https://nmsa.dac.gov.in/",
+  "title": "National Mission for Sustainable Agriculture",
+  "scheme_details": {
+    "eligibility": [
+      "All categories of farmers",
+      "Individual farmers",
+      "Farmer groups",
+      "Farmer Producer Organizations (FPOs)",
+      "Self Help Groups (SHGs)",
+      "Cooperative societies",
+      "Farmers in rainfed and climate-vulnerable areas"
+    ],
+    "land_limit": null,
+    "income_limit": null,
+    "money_benefits": {
+      "subsidy": "Financial assistance for sustainable agriculture practices, water conservation, integrated farming systems, agroforestry, soil health management, and climate-resilient technologies.",
+      "micro_irrigation_support": "Assistance for efficient water-use technologies under related NMSA components.",
+      "soil_health_support": "Support for soil testing, nutrient management, and soil health improvement activities."
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Farmer Registration Certificate",
+      "Land Ownership Record / Khasra Copy / Land Documents",
+      "Bank Passbook",
+      "Passport Size Photograph",
+      "Mobile Number",
+      "Identity Proof",
+      "Address Proof"
+    ],
+    "age_limit": null,
+    "application_process": [
+      "Visit the nearest Agriculture Department office or Krishi Vigyan Kendra (KVK).",
+      "Obtain the NMSA application form for the relevant component.",
+      "Fill in farmer, land, and bank details.",
+      "Attach required documents.",
+      "Submit the application to the Agriculture Officer.",
+      "Verification of eligibility and land details is conducted.",
+      "Approval is granted based on scheme targets and availability of funds.",
+      "Benefits/subsidies are released to the beneficiary as per scheme guidelines."
+    ],
+    "benefits": [
+      "Promotes climate-resilient agriculture",
+      "Improves soil health and fertility",
+      "Encourages integrated farming systems",
+      "Supports water-use efficiency and conservation",
+      "Reduces risks from climate variability",
+      "Enhances agricultural productivity in rainfed areas",
+      "Promotes agroforestry and sustainable farming practices",
+      "Improves farmer income and livelihood security"
+    ],
+    "implemented_by": "Ministry of Agriculture & Farmers Welfare, Government of India",
+    "launch_year": "2014-15",
+    "target_beneficiaries": [
+      "Farmers",
+      "Small and marginal farmers",
+      "Rainfed area farmers",
+      "Farmer groups and cooperatives",
+      "FPOs"
+    ]
+  }
 }
