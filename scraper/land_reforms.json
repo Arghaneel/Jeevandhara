@@ -1,0 +1,36 @@
+{
+  "scheme_name": "LAND_REFORMS",
+  "website": "https://dolr.gov.in/",
+  "title": "Land Reforms Programme",
+  "scheme_details": {
+    "eligibility": [
+      "Land owners",
+      "Farmers",
+      "Rural citizens",
+      "State land administration departments"
+    ],
+    "land_limit": "Varies by state policies",
+    "income_limit": "No income limit specified",
+    "money_benefits": null,
+    "documents_required": [
+      "Land Ownership Records",
+      "Identity Proof",
+      "Survey Documents",
+      "Revenue Records"
+    ],
+    "age_limit": null,
+    "application_process": [
+      "Apply through revenue department.",
+      "Submit ownership documents.",
+      "Verification and survey.",
+      "Updation of land records."
+    ],
+    "benefits": [
+      "Secure land ownership",
+      "Reduced land disputes",
+      "Better land governance",
+      "Transparent land administration"
+    ],
+    "implemented_by": "Department of Land Resources, Government of India"
+  }
+}
