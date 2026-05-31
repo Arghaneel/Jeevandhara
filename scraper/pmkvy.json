@@ -1,18 +1,56 @@
 {
-    "scheme_name": "pkvy",
-    "website": "https://pgsindia-ncof.gov.in/",
-    "title": "PGSI - Home",
-    "scheme_details": {
-        "eligibility": [],
-        "land_limit": null,
-        "income_limit": {
-            "amount": 2415924
-        },
-        "money_benefits": {},
-        "documents_required": [
-            "Certificate"
-        ],
-        "age_limit": null,
-        "application_process": []
-    }
+  "scheme_name": "PKVY",
+  "website": "https://pgsindia-ncof.gov.in/",
+  "title": "Paramparagat Krishi Vikas Yojana",
+  "scheme_details": {
+    "eligibility": [
+      "Individual farmers",
+      "Farmer groups",
+      "Organic farming clusters",
+      "Farmers willing to adopt organic farming practices",
+      "Farmers registered under PGS-India certification"
+    ],
+    "land_limit": {
+      "maximum_land_holding": "Up to 2 hectares"
+    },
+    "income_limit": "No income limit specified",
+    "money_benefits": {
+      "total_assistance_per_hectare": 31500,
+      "duration_years": 3,
+      "organic_inputs": 15000,
+      "training_and_capacity_building": 9000,
+      "certification_and_residue_analysis": 3000,
+      "marketing_packaging_branding": 4500
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Records",
+      "Bank Account Details",
+      "Farmer Registration Details",
+      "Passport Size Photograph",
+      "Mobile Number",
+      "PGS Group Registration (if applicable)"
+    ],
+    "age_limit": null,
+    "application_process": [
+      "Form or join an organic farming cluster.",
+      "Register under PGS-India through the designated agency.",
+      "Submit farmer and land details.",
+      "Undergo verification and cluster approval.",
+      "Adopt organic farming practices as per PKVY guidelines.",
+      "Receive training, certification, and financial assistance.",
+      "Benefits are transferred through Direct Benefit Transfer (DBT)."
+    ],
+    "benefits": [
+      "Promotion of organic farming",
+      "Improvement of soil health",
+      "Reduced dependence on chemical fertilizers and pesticides",
+      "Organic certification support",
+      "Marketing and branding assistance",
+      "Training and capacity building",
+      "Better income opportunities through organic produce"
+    ],
+    "launch_year": 2015,
+    "implemented_by": "Ministry of Agriculture & Farmers Welfare, Government of India"
+  }
 }
