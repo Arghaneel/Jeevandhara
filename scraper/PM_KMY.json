@@ -1,25 +1,54 @@
 {
-    "scheme_name": "PM_KMY",
-    "website": "https://maandhan.in/",
-    "title": "Maandhan",
-    "scheme_details": {
-        "eligibility": [
-            "eligibility"
-        ],
-        "land_limit": null,
-        "income_limit": {
-            "amount": 15000
-        },
-        "money_benefits": {
-            "insurance_amount": 15000
-        },
-        "documents_required": [
-            "Ration Card"
-        ],
-        "age_limit": {
-            "minimum_age": 60,
-            "maximum_age": 60
-        },
-        "application_process": []
-    }
+  "scheme_name": "PM_KMY",
+  "website": "https://maandhan.in/",
+  "title": "Pradhan Mantri Kisan Maandhan Yojana",
+  "scheme_details": {
+    "eligibility": [
+      "Small and Marginal Farmers (SMFs)",
+      "Must be an Indian citizen",
+      "Must own cultivable agricultural land",
+      "Entry age between 18 and 40 years",
+      "Should not be covered under NPS, EPFO, ESIC or other statutory social security schemes",
+      "Should not be an income tax payer"
+    ],
+    "land_limit": {
+      "category": "Small and Marginal Farmer",
+      "maximum_land_holding": "Up to 2 hectares cultivable land"
+    },
+    "income_limit": "No fixed income limit specified",
+    "money_benefits": {
+      "monthly_pension": 3000,
+      "family_pension": 1500,
+      "government_contribution": "Equal contribution by Central Government matching farmer contribution"
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Records / Land Ownership Documents",
+      "Bank Passbook",
+      "Mobile Number",
+      "Passport Size Photograph"
+    ],
+    "age_limit": {
+      "minimum_age": 18,
+      "maximum_age": 40,
+      "pension_start_age": 60
+    },
+    "application_process": [
+      "Visit the nearest Common Service Centre (CSC).",
+      "Provide Aadhaar number, bank account details and land records.",
+      "Complete registration under PM-KMY.",
+      "Choose the monthly contribution amount based on age.",
+      "Auto-debit mandate is generated from the bank account.",
+      "After successful verification, enrollment is completed.",
+      "Receive a pension of ₹3000 per month after attaining 60 years of age."
+    ],
+    "benefits": [
+      "Assured monthly pension of ₹3000 after 60 years",
+      "Family pension of 50% of pension amount to spouse after beneficiary's death",
+      "Government contributes an equal amount to the pension fund",
+      "Provides old-age financial security to farmers"
+    ],
+    "launch_year": 2019,
+    "implemented_by": "Ministry of Agriculture & Farmers Welfare, Government of India"
+  }
 }
