@@ -1,0 +1,37 @@
+{
+  "scheme_name": "NEERANCHAL",
+  "website": "https://dolr.gov.in/",
+  "title": "Neeranchal National Watershed Project",
+  "scheme_details": {
+    "eligibility": [
+      "Farmers in watershed areas",
+      "Rainfed agriculture communities",
+      "Village watershed committees"
+    ],
+    "land_limit": "Applicable to watershed regions",
+    "income_limit": "No income limit specified",
+    "money_benefits": {
+      "watershed_support": "Funding for watershed development and land restoration activities"
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Records",
+      "Village Certification",
+      "Bank Account Details"
+    ],
+    "age_limit": null,
+    "application_process": [
+      "Identification of watershed area.",
+      "Selection of beneficiaries.",
+      "Implementation through watershed institutions.",
+      "Monitoring and evaluation."
+    ],
+    "benefits": [
+      "Land restoration",
+      "Water conservation",
+      "Improved agricultural productivity",
+      "Sustainable livelihood generation"
+    ],
+    "implemented_by": "Department of Land Resources"
+  }
+}
