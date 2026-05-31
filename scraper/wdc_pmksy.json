@@ -1,0 +1,41 @@
+{
+  "scheme_name": "WDC_PMKSY",
+  "website": "https://dolr.gov.in/",
+  "title": "Watershed Development Component of PMKSY",
+  "scheme_details": {
+    "eligibility": [
+      "Farmers in rainfed areas",
+      "Watershed communities",
+      "Village institutions",
+      "Farmer groups",
+      "Self Help Groups"
+    ],
+    "land_limit": "Applicable to watershed project areas",
+    "income_limit": "No income limit specified",
+    "money_benefits": {
+      "land_development_support": "Financial assistance for watershed and land development activities"
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Records",
+      "Bank Account Details",
+      "Village Identification Documents"
+    ],
+    "age_limit": null,
+    "application_process": [
+      "Identify watershed project area.",
+      "Register through local watershed authority.",
+      "Submit land and beneficiary details.",
+      "Participate in approved watershed activities.",
+      "Receive assistance under project guidelines."
+    ],
+    "benefits": [
+      "Soil conservation",
+      "Water harvesting",
+      "Land productivity improvement",
+      "Groundwater recharge",
+      "Sustainable agriculture support"
+    ],
+    "implemented_by": "Department of Land Resources"
+  }
+}
