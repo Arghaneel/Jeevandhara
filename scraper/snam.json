@@ -1,15 +1,66 @@
 {
-    "scheme_name": "SNAM",
-    "website": "https://agrimachinery.nic.in/",
-    "title": "Digital Platform for Farm Mechanization and Technology | Govt of India",
-    "eligibility_related_data": [
-        "The Government is helping farmers by providing subsidy to procure machinery to improve farm input and farm power availability",
-        "Direct Benefit Transfer In Agriculture Mechanization Centralized Farm Machinery Performance Testing Portal FARMS (Farm Machinery Solutions) Mobile App M&T Division Website HOME FAQ FOR DBT AGRICULTURE MECHANIZATION FAQ FOR FARMS APP DISCLAIMER For Any Query and Suggestions Please Write to Helpdesk : support-agrimech[at]gov[dot]in Website Content Managed by Mechanization & Training Division, Department of Agriculture & Farmers Welfare | MoA&FW | GoI Designed and Developed by DAD/IT, DA & FW, Ministry of Agriculture",
-        "In this regard various initiatives have been taken by the Government and in particular, the Department of Agriculture and Farmers Welfare (DA&FW), Ministry of Agriculture",
-        "Digital Platform for Farm Mechanization and Technology | Govt of India SKIP TO MAIN CONTENT SCREEN READER ACCESS Digital Platform for Farm Mechanization and Technology Department of Agriculture and Farmers Welfare Ministry of Agriculture & Farmers Welfare, Govt"
+  "scheme_name": "SNAM",
+  "website": "https://agrimachinery.nic.in/",
+  "title": "Sub-Mission on Agricultural Mechanization (SMAM)",
+  "scheme_details": {
+    "eligibility": [
+      "All categories of farmers",
+      "Small and marginal farmers",
+      "Women farmers",
+      "Scheduled Caste (SC) farmers",
+      "Scheduled Tribe (ST) farmers",
+      "Farmer Producer Organizations (FPOs)",
+      "Cooperative societies",
+      "Self Help Groups (SHGs)",
+      "Rural entrepreneurs",
+      "Custom Hiring Centres (CHCs)"
     ],
-    "document_related_data": [
-        "ApplicationNumber}} Registration Date {{x",
-        "ApplicationRegistrationDate}} Manufacyure Name {{x"
+    "land_limit": "No fixed land holding limit specified",
+    "income_limit": "No income limit specified",
+    "money_benefits": {
+      "subsidy_range": "40% to 50% of machinery cost",
+      "higher_subsidy_for_sc_st_women": "Up to 50%",
+      "custom_hiring_centre_support": "Financial assistance for establishment of CHCs",
+      "farm_machinery_bank_support": "Assistance for farm machinery banks"
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Records",
+      "Bank Passbook",
+      "Farmer Registration Certificate",
+      "Passport Size Photograph",
+      "Mobile Number",
+      "Caste Certificate (if applicable)",
+      "FPO/SHG Registration Certificate (if applicable)"
+    ],
+    "age_limit": {
+      "minimum_age": 18
+    },
+    "application_process": [
+      "Register on the state agriculture portal or nearest agriculture office.",
+      "Select the required farm machinery.",
+      "Upload required documents.",
+      "Submit application for subsidy.",
+      "Verification by Agriculture Department.",
+      "Purchase approved machinery.",
+      "Claim subsidy through Direct Benefit Transfer (DBT)."
+    ],
+    "benefits": [
+      "Subsidy on agricultural machinery",
+      "Improved farm productivity",
+      "Reduction in labor dependency",
+      "Promotion of mechanized farming",
+      "Access to machinery through Custom Hiring Centres",
+      "Support for small and marginal farmers"
+    ],
+    "implemented_by": "Department of Agriculture & Farmers Welfare, Government of India",
+    "launch_year": 2014,
+    "target_beneficiaries": [
+      "Farmers",
+      "FPOs",
+      "SHGs",
+      "Cooperatives",
+      "Agricultural entrepreneurs"
     ]
+  }
 }
