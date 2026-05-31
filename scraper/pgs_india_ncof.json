@@ -1,14 +1,44 @@
 {
-    "scheme_name": "PGS India NCOF",
-    "website": "https://pgsindia-ncof.gov.in/",
-    "title": "PGSI - Home",
-    "eligibility_related_data": [
-        "It will lead to creation of a database of Organic producers and area under PGS certification with due traceability National Networking of organic producers, consumers and traders Easy to maintain documents and records of crop production Information is accessible to public domain Consumer verification of organic produce Register Now View All View All Photos Videos pgsi 15 June 2022 Farmer view on PGS certifcation and marketing Knowledge / Literature / Publicity Material Links For Organic Knowledge Power Point Presentations (PPTs) Formats Related to PGS/ Organic Farming / Success Story Etc",
-        "29 August 2025 - Unblocked Regional Councils List 01 September 2025 - Authorized NF RCs for Natural Farming Certification System 10 September 2025 - Suspension of Regional Councils 25 November 2025 - Authorization of Regional councils for Natural Farming Certification 25 November 2025 - Authorization of Regional councils for Organic Farming Certification 02 December 2025 - Circular RC Performance 03 December 2025 - Permanent Suspension of Regional Council - regarding View All Regional Council 95 Total Number of Groups 79536 Total Number of Farmers 2412383 Total number of valid Certificates 259653 Certified Cumulative Area (Ha) 1629286 Welcome to PGS India PGS-India (Participatory Guarantee System of India) is a quality assurance initiative that is locally relevant, emphasize the participation of stakeholders, including producers and consumers and operate outside the frame of third party certification",
-        "Know More Individual Farmer Local Group Large Area Certification Processor Select State --Select State-- A AND N ISLANDS ANDHRA PRADESH ARUNACHAL PRADESH ASSAM BIHAR CHANDIGARH CHHATTISGARH DADRA AND NAGAR HAVELI DAMAN AND DIU DELHI GOA GUJARAT HARYANA HIMACHAL PRADESH JAMMU AND KASHMIR JHARKHAND KARNATAKA KERALA LADAKH LAKSHADWEEP MADHYA PRADESH MAHARASHTRA MANIPUR MEGHALAYA MIZORAM NAGALAND ODISHA PUDUCHERRY PUNJAB RAJASTHAN SIKKIM TAMIL NADU TELANGANA TRIPURA UTTARAKHAND UTTAR PRADESH WEST BENGAL Select District --Select District-- Select Sub-District SELECT SUB-DISTRICT VIEW ALL INDIVIDUAL FARMER Select State --Select State-- A AND N ISLANDS ANDHRA PRADESH ARUNACHAL PRADESH ASSAM BIHAR CHANDIGARH CHHATTISGARH DADRA AND NAGAR HAVELI DAMAN AND DIU DELHI GOA GUJARAT HARYANA HIMACHAL PRADESH JAMMU AND KASHMIR JHARKHAND KARNATAKA KERALA LADAKH LAKSHADWEEP MADHYA PRADESH MAHARASHTRA MANIPUR MEGHALAYA MIZORAM NAGALAND ODISHA PUDUCHERRY PUNJAB RAJASTHAN SIKKIM TAMIL NADU TELANGANA TRIPURA UTTARAKHAND UTTAR PRADESH WEST BENGAL Select District --Select District-- View All Group Select State --Select State-- A AND N ISLANDS ANDHRA PRADESH ARUNACHAL PRADESH ASSAM BIHAR CHANDIGARH CHHATTISGARH DADRA AND NAGAR HAVELI DAMAN AND DIU DELHI GOA GUJARAT HARYANA HIMACHAL PRADESH JAMMU AND KASHMIR JHARKHAND KARNATAKA KERALA LADAKH LAKSHADWEEP MADHYA PRADESH MAHARASHTRA MANIPUR MEGHALAYA MIZORAM NAGALAND ODISHA PUDUCHERRY PUNJAB RAJASTHAN SIKKIM TAMIL NADU TELANGANA TRIPURA UTTARAKHAND UTTAR PRADESH WEST BENGAL Select District --Select District-- View All LAC Select State --Select State-- A AND N ISLANDS ANDHRA PRADESH ARUNACHAL PRADESH ASSAM BIHAR CHANDIGARH CHHATTISGARH DADRA AND NAGAR HAVELI DAMAN AND DIU DELHI GOA GUJARAT HARYANA HIMACHAL PRADESH JAMMU AND KASHMIR JHARKHAND KARNATAKA KERALA LADAKH LAKSHADWEEP MADHYA PRADESH MAHARASHTRA MANIPUR MEGHALAYA MIZORAM NAGALAND ODISHA PUDUCHERRY PUNJAB RAJASTHAN SIKKIM TAMIL NADU TELANGANA TRIPURA UTTARAKHAND UTTAR PRADESH WEST BENGAL Select District --Select District-- VIEW ALL PROCESSOR Guiding Principles of PGS India Participation Participation is an essential and dynamic part ofPGS, Participation embodies the principle of collective"
+  "scheme_name": "PGS_India_NCOF",
+  "website": "https://pgsindia-ncof.gov.in/",
+  "title": "Participatory Guarantee System (PGS) India",
+  "scheme_details": {
+    "eligibility": [
+      "Individual farmers",
+      "Farmer groups",
+      "Organic producers",
+      "Local groups engaged in organic farming",
+      "Large Area Certification (LAC) applicants",
+      "Processors of organic products"
     ],
-    "document_related_data": [
-        "It will lead to creation of a database of Organic producers and area under PGS certification with due traceability National Networking of organic producers, consumers and traders Easy to maintain documents and records of crop production Information is accessible to public domain Consumer verification of organic produce Register Now View All View All Photos Videos pgsi 15 June 2022 Farmer view on PGS certifcation and marketing Knowledge / Literature / Publicity Material Links For Organic Knowledge Power Point Presentations (PPTs) Formats Related to PGS/ Organic Farming / Success Story Etc",
-        "PGSI - Home X NATURAL FARMING CERTIFICATION FAQs National Centre For Organic and Natural Farming Skip to Main Content Screen Reader Access English Hindi Register Login Home About Us PGS India Operational Manual Revised PGS India Operational Manual English Revised PGS India Operational Manual Hindi PGS India Standards Revised PGS India Operational Manual Kannada Natural Farming Certification Operational Structure Zonal Council Regional Council Contact Us Traceability of Certified Products PGS India PGS India PGSI India PGSI PGSI PGSI PGSI PGSI PGSI PGSI PGSI PGSI PGSI PGSI Announcement 04 July 2025 - Circular regd LAC 08 July 2025 - Authorization of Regional Councils under NFCS-reg"
+    "land_limit": null,
+    "income_limit": null,
+    "money_benefits": null,
+    "documents_required": [
+      "Farmer Registration Details",
+      "Land Records",
+      "Crop Production Records",
+      "Group Membership Records (if applicable)",
+      "Organic Farming Declaration"
+    ],
+    "age_limit": null,
+    "application_process": [
+      "Register on the PGS India portal.",
+      "Join or form a Local Group.",
+      "Submit farm and crop details.",
+      "Participate in peer review and verification.",
+      "Maintain organic farming records.",
+      "Undergo certification evaluation.",
+      "Receive PGS Organic Certification."
+    ],
+    "benefits": [
+      "Organic certification at low cost",
+      "Market access for organic produce",
+      "Traceability of certified products",
+      "Consumer trust through transparent certification",
+      "National networking of organic producers, consumers and traders",
+      "Easy maintenance of crop production records",
+      "Public verification of organic produce"
     ]
+  }
 }
