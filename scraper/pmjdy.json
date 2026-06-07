@@ -1,27 +1,73 @@
 {
-    "scheme_name": "PMJDY",
-    "website": "https://pmjdy.gov.in/",
-    "title": "Pradhan Mantri Jan-Dhan Yojana | Department of Financial Services | Ministry of Finance",
-    "scheme_details": {
-        "eligibility": [
-            "Pradhan Mantri Jan-Dhan Yojana | Department of Financial Services | Ministry of Finance Pradhan Mantri Jan Dhan Yojana (PMJDY) A A A HINDI ABOUT PMJDY SCHEME DETAILS WHO'S WHO PROGRESS-REPORT FINANCIAL LITERACY WRITE TO US USER FEEDBACK BANK-LOGIN SLBC-LOGIN CONTACT US 58.20 Crore beneficiaries banked so far ₹ 302,667.16 Crore Balance in beneficiary accounts 13.55 lakh Bank Mitras delivering branchless banking services in the Country and Counting...",
-            "e-DOCUMENTS Continuation of PMJDY Mission Document Scheme Details Account Opening Form -Hindi Account Opening Form -English Quick Links NABARD Circular on Financial Inclusion Fund (FIF) List of Nodal Officers of DFS for SLBC Success Stories Insurance Cover under PMJDY Claim settled under PMJDY Letters from Hon'ble Prime Minister Guinness World Record MEDIA PMJDY Logo Videos Image Gallery Ringtone Advertisement External-Links Jan-Suraksha Mudra SIDBI RBI National Centre for Financial Education (NCFE) Video Clips View More...",
-            "WHAT'S NEW | | Jan Dhan Yojana – A Revolutionary Financial Inclusion Program Swachh Bharat, Jan Dhan most visible of PM's Yojanas Dhan Accounts, Claims Govt."
-        ],
-        "land_limit": [],
-        "income_limit": [],
-        "money_benefits": [
-            "Pradhan Mantri Jan-Dhan Yojana | Department of Financial Services | Ministry of Finance Pradhan Mantri Jan Dhan Yojana (PMJDY) A A A HINDI ABOUT PMJDY SCHEME DETAILS WHO'S WHO PROGRESS-REPORT FINANCIAL LITERACY WRITE TO US USER FEEDBACK BANK-LOGIN SLBC-LOGIN CONTACT US 58.20 Crore beneficiaries banked so far ₹ 302,667.16 Crore Balance in beneficiary accounts 13.55 lakh Bank Mitras delivering branchless banking services in the Country and Counting...",
-            "e-DOCUMENTS Continuation of PMJDY Mission Document Scheme Details Account Opening Form -Hindi Account Opening Form -English Quick Links NABARD Circular on Financial Inclusion Fund (FIF) List of Nodal Officers of DFS for SLBC Success Stories Insurance Cover under PMJDY Claim settled under PMJDY Letters from Hon'ble Prime Minister Guinness World Record MEDIA PMJDY Logo Videos Image Gallery Ringtone Advertisement External-Links Jan-Suraksha Mudra SIDBI RBI National Centre for Financial Education (NCFE) Video Clips View More..."
-        ],
-        "documents_required": [
-            "Pradhan Mantri Jan-Dhan Yojana | Department of Financial Services | Ministry of Finance Pradhan Mantri Jan Dhan Yojana (PMJDY) A A A HINDI ABOUT PMJDY SCHEME DETAILS WHO'S WHO PROGRESS-REPORT FINANCIAL LITERACY WRITE TO US USER FEEDBACK BANK-LOGIN SLBC-LOGIN CONTACT US 58.20 Crore beneficiaries banked so far ₹ 302,667.16 Crore Balance in beneficiary accounts 13.55 lakh Bank Mitras delivering branchless banking services in the Country and Counting...",
-            "e-DOCUMENTS Continuation of PMJDY Mission Document Scheme Details Account Opening Form -Hindi Account Opening Form -English Quick Links NABARD Circular on Financial Inclusion Fund (FIF) List of Nodal Officers of DFS for SLBC Success Stories Insurance Cover under PMJDY Claim settled under PMJDY Letters from Hon'ble Prime Minister Guinness World Record MEDIA PMJDY Logo Videos Image Gallery Ringtone Advertisement External-Links Jan-Suraksha Mudra SIDBI RBI National Centre for Financial Education (NCFE) Video Clips View More..."
-        ],
-        "age_limit": [
-            "National Toll Free:- 1800 11 0001 1800 180 1111 Terms of Use Accessibility Options Privacy Policy Disclaimer Accessibility Statement Copyright Policy Hyperlink Policy Feedback @ Content on this website is managed and owned by Mission Office, Deartment of Financial Services, Ministry of Finance, Government of India.",
-            "e-DOCUMENTS Continuation of PMJDY Mission Document Scheme Details Account Opening Form -Hindi Account Opening Form -English Quick Links NABARD Circular on Financial Inclusion Fund (FIF) List of Nodal Officers of DFS for SLBC Success Stories Insurance Cover under PMJDY Claim settled under PMJDY Letters from Hon'ble Prime Minister Guinness World Record MEDIA PMJDY Logo Videos Image Gallery Ringtone Advertisement External-Links Jan-Suraksha Mudra SIDBI RBI National Centre for Financial Education (NCFE) Video Clips View More..."
-        ],
-        "application_process": []
-    }
+  "scheme_name": "PMJDY",
+  "website": "https://pmjdy.gov.in/",
+  "title": "Pradhan Mantri Jan-Dhan Yojana",
+  "scheme_details": {
+    "eligibility": [
+      "Any Indian citizen",
+      "Individuals aged 10 years and above",
+      "Minors above 10 years can open and operate an account",
+      "Persons without any existing bank account",
+      "Rural and urban residents",
+      "Low-income and financially excluded individuals"
+    ],
+    "land_limit": "No land holding limit specified",
+    "income_limit": "No income limit specified",
+    "money_benefits": {
+      "minimum_balance_requirement": 0,
+      "accidental_insurance_cover": 200000,
+      "life_insurance_cover": 30000,
+      "overdraft_facility": 10000,
+      "rupay_debit_card": true,
+      "direct_benefit_transfer": true
+    },
+    "documents_required": [
+      "Aadhaar Card",
+      "Voter ID Card",
+      "Driving License",
+      "PAN Card",
+      "Passport",
+      "NREGA Job Card",
+      "Passport Size Photograph",
+      "Mobile Number",
+      "Officially Valid Documents (OVD)",
+      "Self-attested photograph (for small accounts)"
+    ],
+    "age_limit": {
+      "minimum_age": 10,
+      "maximum_age": null
+    },
+    "application_process": [
+      "Visit any participating bank branch or Bank Mitra.",
+      "Collect the PMJDY account opening form.",
+      "Fill in personal details and nominee information.",
+      "Submit identity and address proof documents.",
+      "Complete KYC verification.",
+      "Open a Basic Savings Bank Deposit Account (BSBDA).",
+      "Receive RuPay Debit Card.",
+      "Link Aadhaar and mobile number for DBT benefits."
+    ],
+    "benefits": [
+      "Zero-balance savings account",
+      "Access to banking services",
+      "RuPay Debit Card",
+      "Accidental insurance cover up to ₹2 lakh",
+      "Life insurance cover (eligible accounts)",
+      "Overdraft facility up to ₹10,000",
+      "Direct Benefit Transfer (DBT) support",
+      "Access to pension and insurance schemes",
+      "Financial inclusion for unbanked citizens"
+    ],
+    "implemented_by": "Department of Financial Services, Ministry of Finance, Government of India",
+    "launch_year": 2014,
+    "target_beneficiaries": [
+      "Unbanked citizens",
+      "Farmers",
+      "Rural households",
+      "Women",
+      "Low-income families",
+      "Students",
+      "Workers in unorganized sectors"
+    ]
+  }
 }
