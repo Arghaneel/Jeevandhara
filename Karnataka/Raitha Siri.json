@@ -1,0 +1,63 @@
+
+{
+  "scheme_name": "Raitha Siri",
+  "website": "https://raitamitra.karnataka.gov.in/",
+  "title": "Raitha Siri Scheme",
+  "state": "Karnataka",
+  "scheme_type": "State Government",
+  "department": "Department of Agriculture, Government of Karnataka",
+  "scheme_details": {
+    "description": "A Karnataka agricultural initiative intended to encourage millet cultivation, including nutrient-rich traditional millet crops.",
+    "eligibility": [
+      "Farmers cultivating eligible millet crops, subject to the applicable scheme guidelines",
+      "Farmers meeting the eligibility conditions in the relevant government notification"
+    ],
+    "land_limit": null,
+    "income_limit": null,
+    "farmer_category": [
+      "Millet-growing farmers"
+    ],
+    "money_benefits": {
+      "subsidy": "Historical programme information records financial assistance of Rs. 10,000 per hectare for millet growers. Current eligibility and rates require official verification.",
+      "direct_financial_assistance": "Not independently verified for the current financial year.",
+      "loan_support": null,
+      "irrigation_support": null
+    },
+    "water_irrigation_support": null,
+    "documents_required": [],
+    "age_limit": null,
+    "application_process": [
+      "Visit the official Karnataka Agriculture Department website.",
+      "Contact the nearest Raita Samparka Kendra or local Agriculture Officer.",
+      "Ask whether Raitha Siri applications or benefits are available for the current financial year.",
+      "Confirm the eligible millet crops, land requirements and incentive amount.",
+      "Obtain the official application form and document checklist, if applications are open.",
+      "Submit the application through the prescribed channel.",
+      "Complete any required verification before benefit disbursement."
+    ],
+    "benefits": [
+      "Encourages millet cultivation",
+      "Promotes nutrient-rich traditional crops",
+      "Supports diversification of agricultural production",
+      "May provide financial incentives to eligible millet growers under applicable guidelines"
+    ],
+    "implemented_by": "Department of Agriculture, Government of Karnataka",
+    "launch_year": null,
+    "target_beneficiaries": [
+      "Eligible millet-growing farmers in Karnataka"
+    ],
+    "application_url": null,
+    "application_deadline": null,
+    "district_restrictions": [],
+    "financial_year": null
+  },
+  "data_source": {
+    "official_source_url": "https://chamrajnagar.nic.in/en/welfareschemes/",
+    "reference_source_url": "https://www.nabard.org/auth/writereaddata/CareerNotices/2701232528state-government-sponsored-programmes-with-bank-credit-plp-22-23.pdf",
+    "source_language": "English",
+    "scraped_at": "2026-10-20",
+    "last_verified": "2026-10-20",
+    "verification_status": "partially_verified",
+    "notes": "The incentive amount is based on historical programme information. Verify the latest government order before treating it as current."
+  }
+}
