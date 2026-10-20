@@ -1,0 +1,69 @@
+
+{
+  "scheme_name": "Krishi Yantra Dhare",
+  "website": "https://raitamitra.karnataka.gov.in/",
+  "title": "Krishi Yantra Dhare - Farm Machinery Custom Hiring and Service Centres",
+  "state": "Karnataka",
+  "scheme_type": "State Government",
+  "department": "Department of Agriculture, Government of Karnataka",
+  "scheme_details": {
+    "description": "A farm mechanisation programme that establishes Custom Hire and Service Centres at hobli level to provide agricultural machinery and implements to farmers at affordable rental rates.",
+    "eligibility": [
+      "Farmers seeking to rent agricultural machinery through participating Custom Hire and Service Centres",
+      "Small and marginal farmers are among the intended beneficiaries",
+      "Machinery availability depends on the participating centre and location"
+    ],
+    "land_limit": null,
+    "income_limit": null,
+    "farmer_category": [
+      "Small and marginal farmers",
+      "Other farmers using participating machinery rental centres, subject to local service conditions"
+    ],
+    "money_benefits": {
+      "subsidy": "The main farmer-facing benefit is access to agricultural machinery at affordable rental rates. This is not a universal direct cash subsidy to every farmer.",
+      "direct_financial_assistance": null,
+      "loan_support": null,
+      "machinery_rental_support": "Access to agricultural machinery and implements through Custom Hire and Service Centres at nominal or affordable hiring charges.",
+      "centre_establishment_support": "Government support for establishing and operating Custom Hire and Service Centres through approved organisations and implementation arrangements."
+    },
+    "water_irrigation_support": null,
+    "documents_required": [],
+    "age_limit": null,
+    "application_process": [
+      "Identify the nearest Krishi Yantra Dhare Custom Hire and Service Centre.",
+      "Contact the centre or the local Agriculture Department office.",
+      "Check the available machinery, hiring charges and booking requirements.",
+      "Provide the farmer and booking details requested by the centre.",
+      "Reserve the required agricultural machinery for the relevant farming operation.",
+      "Use the machinery according to the centre's rental conditions and return it as instructed."
+    ],
+    "benefits": [
+      "Access to modern agricultural machinery without purchasing it outright",
+      "Reduced upfront machinery investment for farmers",
+      "Timely completion of agricultural operations",
+      "Reduced dependence on manual agricultural labour",
+      "Improved efficiency and farm productivity",
+      "Access to machinery and implements at affordable hiring rates",
+      "Support for small and marginal farmers who cannot afford individual machinery ownership"
+    ],
+    "implemented_by": "Department of Agriculture, Government of Karnataka, with approved organisations and service-centre partners",
+    "launch_year": "2014-15",
+    "target_beneficiaries": [
+      "Small and marginal farmers",
+      "Farmers requiring agricultural machinery on a rental basis"
+    ],
+    "application_url": null,
+    "application_deadline": null,
+    "district_restrictions": [],
+    "financial_year": null
+  },
+  "data_source": {
+    "official_source_url": "https://bangalorerural.nic.in/en/agriculture/",
+    "reference_source_url": "https://skdrdpindia.org/agriculture/chsc/",
+    "source_language": "English",
+    "scraped_at": "2026-10-20",
+    "last_verified": "2026-10-20",
+    "verification_status": "partially_verified",
+    "notes": "The scheme's purpose, implementation model and machinery rental benefits are documented. Current hiring rates, local centre availability, document requirements and application arrangements must be confirmed with the relevant centre or Agriculture Department."
+  }
+}
