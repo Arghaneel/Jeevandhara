@@ -1,0 +1,67 @@
+
+{
+  "scheme_name": "Bhoo Chetana",
+  "website": "https://raitamitra.karnataka.gov.in/",
+  "title": "Bhoo Chetana - Rainfed Agriculture Productivity Improvement Programme",
+  "state": "Karnataka",
+  "scheme_type": "State Government",
+  "department": "Department of Agriculture, Government of Karnataka",
+  "scheme_details": {
+    "description": "A programme designed to improve rain-fed crop productivity through soil testing, balanced nutrient management, improved agricultural inputs and scientific farming practices.",
+    "eligibility": [
+      "Farmers cultivating rain-fed agricultural crops in areas covered by the programme",
+      "Farmers meeting the applicable department guidelines"
+    ],
+    "land_limit": null,
+    "income_limit": null,
+    "farmer_category": [
+      "Rain-fed farmers",
+      "Small and marginal farmers where eligible under applicable guidelines"
+    ],
+    "money_benefits": {
+      "subsidy": "Historical Karnataka government records describe agricultural input distribution at a 50% subsidy under Bhoo Chetana. Current rates and eligible inputs require verification.",
+      "direct_financial_assistance": null,
+      "loan_support": null,
+      "irrigation_support": null,
+      "input_support": "Eligible agricultural inputs and nutrients may be supplied according to programme guidelines."
+    },
+    "water_irrigation_support": "No specific borewell or irrigation subsidy independently verified for this scheme. Its primary focus is rain-fed agriculture, soil fertility and crop productivity.",
+    "documents_required": [],
+    "age_limit": null,
+    "application_process": [
+      "Contact the nearest Raita Samparka Kendra or Agriculture Department office.",
+      "Ask whether Bhoo Chetana activities are being implemented in the farmer's village or district.",
+      "Confirm eligible crops, input distribution, soil testing and current subsidy conditions.",
+      "Provide the land and farmer details requested by the Agriculture Department.",
+      "Participate in soil sampling or testing if required.",
+      "Follow the soil nutrient and crop management recommendations issued by agricultural officials.",
+      "Receive eligible inputs or benefits after verification under the applicable guidelines."
+    ],
+    "benefits": [
+      "Improves soil fertility and nutrient management",
+      "Encourages soil-test-based fertiliser application",
+      "Promotes balanced use of macro and micronutrients",
+      "Improves productivity of selected rain-fed crops",
+      "Encourages improved crop management practices",
+      "Supports sustainable dryland farming"
+    ],
+    "implemented_by": "Department of Agriculture, Government of Karnataka, with watershed development support in the programme's historical implementation",
+    "launch_year": "2009",
+    "target_beneficiaries": [
+      "Farmers cultivating rain-fed crops in covered areas"
+    ],
+    "application_url": null,
+    "application_deadline": null,
+    "district_restrictions": [],
+    "financial_year": null
+  },
+  "data_source": {
+    "official_source_url": "https://chitradurga.nic.in/en/agriculture/",
+    "reference_source_url": "https://moef.gov.in/uploads/2017/08/Karnataka.pdf",
+    "source_language": "English",
+    "scraped_at": "2026-10-20",
+    "last_verified": "2026-10-20",
+    "verification_status": "partially_verified",
+    "notes": "Historical programme information confirms the purpose and earlier implementation. Current availability, subsidy rates, document requirements and application windows have not been verified."
+  }
+}
