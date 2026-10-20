@@ -1,0 +1,75 @@
+
+{
+  "scheme_name": "Karnataka Raitha Suraksha - Pradhan Mantri Fasal Bima Yojana",
+  "website": "https://samrakshane.karnataka.gov.in/",
+  "title": "Karnataka Raitha Suraksha Crop Insurance Scheme",
+  "state": "Karnataka",
+  "scheme_type": "Jointly Funded",
+  "department": "Department of Agriculture, Government of Karnataka, in coordination with the Ministry of Agriculture and Farmers Welfare, Government of India",
+  "scheme_details": {
+    "description": "A crop insurance programme implemented in Karnataka to provide financial protection to insured farmers against eligible crop losses caused by specified natural events, weather conditions and other covered risks.",
+    "eligibility": [
+      "Farmers growing notified crops in notified insurance areas",
+      "Farmers meeting the applicable season-specific scheme guidelines",
+      "Landowners and eligible tenant or sharecropper cultivators, subject to applicable rules and documentation"
+    ],
+    "land_limit": null,
+    "income_limit": null,
+    "farmer_category": [
+      "Small and marginal farmers",
+      "Other eligible farmers cultivating notified crops"
+    ],
+    "money_benefits": {
+      "subsidy": "Government shares the eligible crop insurance premium subsidy according to the applicable scheme guidelines.",
+      "direct_financial_assistance": "Insurance claim payments for eligible and assessed crop losses, subject to policy terms.",
+      "loan_support": null,
+      "insurance_support": "Crop insurance for notified crops, areas and seasons against covered risks."
+    },
+    "water_irrigation_support": null,
+    "documents_required": [
+      "Aadhaar or other accepted identity documentation",
+      "Land ownership or cultivation records",
+      "Bank account details",
+      "Crop and sown-area details",
+      "Application or enrolment details",
+      "Cultivation or tenancy documentation where applicable"
+    ],
+    "age_limit": null,
+    "application_process": [
+      "Visit the official Samrakshane portal.",
+      "Check the notified crops, insurance unit, season, premium and enrolment deadline for the farmer's district.",
+      "Apply through the prescribed state portal, authorised channel or participating institution, as applicable.",
+      "Provide the requested identity, cultivation, land and bank details.",
+      "Pay the applicable farmer premium within the notified deadline.",
+      "Retain the application receipt and policy or enrolment reference.",
+      "Report crop loss through the prescribed channel within the applicable reporting period.",
+      "Track the claim through the official portal and respond to any verification requirements."
+    ],
+    "benefits": [
+      "Financial protection against covered crop losses",
+      "Support against specified natural calamities and adverse weather events",
+      "Protection against eligible prevented sowing or planting risks",
+      "Coverage for eligible localised calamities and specified post-harvest losses",
+      "Reduced financial uncertainty for insured farmers",
+      "Claim tracking through the state crop-insurance system"
+    ],
+    "implemented_by": "Government of Karnataka and Government of India, through the designated implementing agencies and insurers",
+    "launch_year": "2016",
+    "target_beneficiaries": [
+      "Eligible farmers cultivating notified crops in Karnataka"
+    ],
+    "application_url": "https://samrakshane.karnataka.gov.in/",
+    "application_deadline": null,
+    "district_restrictions": [],
+    "financial_year": null
+  },
+  "data_source": {
+    "official_source_url": "https://samrakshane.karnataka.gov.in/",
+    "reference_source_url": "https://pmfby.gov.in/",
+    "source_language": "English",
+    "scraped_at": "2026-10-20",
+    "last_verified": "2026-10-20",
+    "verification_status": "partially_verified",
+    "notes": "Crop eligibility, insurance premium rates, enrolment deadlines and coverage depend on the specific district, crop and season. Verify the current Karnataka notification before recording them as definitive."
+  }
+}
