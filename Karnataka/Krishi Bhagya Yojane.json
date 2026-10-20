@@ -1,0 +1,64 @@
+{
+  "scheme_name": "Krishi Bhagya Yojane",
+  "website": "https://raitamitra.karnataka.gov.in/",
+  "title": "Krishi Bhagya Scheme",
+  "state": "Karnataka",
+  "scheme_type": "State Government",
+  "department": "Department of Agriculture, Government of Karnataka",
+  "scheme_details": {
+    "description": "A scheme aimed at improving rainfed agriculture through efficient rainwater management, water conservation, improved farm productivity and dryland horticulture.",
+    "eligibility": [
+      "Farmers cultivating rainfed agricultural land",
+      "Farmers meeting the applicable scheme and district guidelines"
+    ],
+    "land_limit": null,
+    "income_limit": null,
+    "farmer_category": [
+      "General category farmers",
+      "Scheduled Caste farmers",
+      "Scheduled Tribe farmers"
+    ],
+    "money_benefits": {
+      "subsidy": "Financial assistance for eligible scheme components, subject to the applicable government guidelines and beneficiary category.",
+      "micro_irrigation_support": "Support for eligible drip and sprinkler irrigation components.",
+      "farm_pond_support": "Assistance for eligible farm pond construction and lining components.",
+      "pump_set_support": "Assistance for eligible diesel pump sets.",
+      "other_support": "Potential support for protective shade-net structures around farm ponds, as described by the Agriculture Department."
+    },
+    "water_irrigation_support": "Farm ponds (Krishi Honda), polythene or alternative pond lining, diesel pump sets, drip irrigation, sprinkler irrigation and shade-net structures around farm ponds.",
+    "documents_required": [],
+    "age_limit": null,
+    "application_process": [
+      "Contact the nearest Raita Samparka Kendra.",
+      "Consult the local Agriculture Department office about the current Krishi Bhagya application notification.",
+      "Confirm eligible components, land requirements, subsidy rates and available funding.",
+      "Obtain the current application form and document checklist from the department.",
+      "Submit the application and supporting documents as instructed by the Agriculture Officer.",
+      "Complete any required land or site verification.",
+      "Receive assistance only after approval under the applicable scheme guidelines."
+    ],
+    "benefits": [
+      "Rainwater harvesting and storage",
+      "Improved water availability during dry periods",
+      "Efficient use of irrigation water",
+      "Support for dryland horticulture",
+      "Improved rainfed agricultural productivity",
+      "Reduced vulnerability to rainfall variability"
+    ],
+    "implemented_by": "Department of Agriculture, Government of Karnataka",
+    "launch_year": "2014-15",
+    "target_beneficiaries": ["Eligible rainfed farmers in Karnataka"],
+    "application_url": null,
+    "application_deadline": null,
+    "district_restrictions": [],
+    "financial_year": "2025-26 details require current official verification"
+  },
+  "data_source": {
+    "official_source_url": "https://bangalorerural.nic.in/en/agriculture/",
+    "source_document_url": null,
+    "source_language": "English",
+    "scraped_at": "2026-10-20",
+    "last_verified": "2026-10-20",
+    "verification_status": "partially_verified"
+  }
+}
