@@ -1,0 +1,96 @@
+
+{
+  "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+  "website": "https://pmksy.mowr.gov.in/",
+  "title": "Pradhan Mantri Krishi Sinchayee Yojana",
+  "state": "Karnataka",
+  "scheme_type": "Centrally Sponsored Scheme",
+  "department": "Ministry of Jal Shakti and Ministry of Agriculture and Farmers Welfare, Government of India, in coordination with the Government of Karnataka",
+  "scheme_details": {
+    "description": "A national irrigation and water-management programme intended to expand irrigation coverage, improve on-farm water-use efficiency and promote sustainable water conservation.",
+    "eligibility": [
+      "Farmers applying under an eligible component implemented in Karnataka",
+      "Farmers cultivating land that meets the relevant component requirements",
+      "Applicants meeting the applicable district, crop and irrigation-system guidelines",
+      "Farmer groups and other institutions where permitted under specific components"
+    ],
+    "land_limit": null,
+    "income_limit": null,
+    "farmer_category": [
+      "Small and marginal farmers",
+      "Other eligible farmers",
+      "Farmer groups and water-user associations where eligible"
+    ],
+    "money_benefits": {
+      "subsidy": "Financial assistance for eligible irrigation and water-management activities under the relevant PMKSY component. Rates depend on component, beneficiary category and current state guidelines.",
+      "direct_financial_assistance": null,
+      "loan_support": null,
+      "micro_irrigation_support": "Assistance for eligible drip and sprinkler irrigation systems under the Per Drop More Crop component.",
+      "watershed_support": "Support for eligible watershed development, soil and moisture conservation and water-harvesting activities under the relevant component."
+    },
+    "water_irrigation_support": "Eligible activities may include drip irrigation, sprinkler irrigation, improved on-farm water-use efficiency, watershed development, water harvesting and irrigation infrastructure, depending on the PMKSY component.",
+    "documents_required": [
+      "Aadhaar or other accepted identity proof",
+      "Farmer registration or Farmer ID, where required",
+      "Land ownership or cultivation records",
+      "Bank account details",
+      "Passport-size photograph, where required",
+      "Crop and irrigation-system details",
+      "Additional documents required by the implementing department"
+    ],
+    "age_limit": null,
+    "application_process": [
+      "Identify the relevant PMKSY component, such as Per Drop More Crop or watershed development.",
+      "Visit the Karnataka Agriculture Department portal or nearest Raita Samparka Kendra.",
+      "Ask whether the relevant component is open to individual farmer applications in the district.",
+      "Obtain the current application form and subsidy guidelines.",
+      "Submit the requested farmer, land, bank and irrigation-system details.",
+      "Complete the required field verification or technical assessment.",
+      "Wait for approval and follow the department's instructions before purchasing or installing eligible equipment.",
+      "Submit installation or completion evidence where required for subsidy release."
+    ],
+    "benefits": [
+      "Improved access to irrigation",
+      "More efficient use of irrigation water",
+      "Support for drip and sprinkler irrigation",
+      "Reduced water wastage",
+      "Support for water harvesting and watershed development",
+      "Improved resilience to rainfall variability",
+      "Potential reduction in irrigation-related input costs",
+      "Improved agricultural productivity through efficient water management"
+    ],
+    "implemented_by": "Government of India and Government of Karnataka through the relevant implementing departments and agencies",
+    "launch_year": "2015-16",
+    "target_beneficiaries": [
+      "Eligible farmers",
+      "Small and marginal farmers",
+      "Farmer groups and water-user associations where eligible",
+      "Approved watershed and irrigation projects"
+    ],
+    "application_url": "https://raitamitra.karnataka.gov.in/",
+    "application_deadline": null,
+    "district_restrictions": [],
+    "financial_year": null,
+    "components": [
+      "Per Drop More Crop",
+      "Watershed Development Component",
+      "Har Khet Ko Pani",
+      "Surface Minor Irrigation",
+      "Repair, Renovation and Restoration of Water Bodies",
+      "Command Area Development and Water Management"
+    ]
+  },
+  "data_source": {
+    "official_source_url": "https://bangalorerural.nic.in/en/agriculture/",
+    "reference_source_urls": [
+      "https://pmksy.mowr.gov.in/",
+      "https://pmksy.mowr.gov.in/smi.aspx",
+      "https://wdcpmksy.dolr.gov.in/dolrDashBoard"
+    ],
+    "source_language": "English",
+    "scraped_at": "2026-10-20",
+    "last_verified": "2026-10-20",
+    "verification_status": "partially_verified",
+    "notes": "PMKSY is a central scheme implemented through multiple components and departments. Eligibility, subsidy rates, required documents and application procedures must be verified against the applicable Karnataka component guidelines."
+  }
+}
